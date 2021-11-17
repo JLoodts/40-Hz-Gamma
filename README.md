@@ -10,7 +10,7 @@ After optimization of the sensory stimulation (light and sound) -Gamma ENtrainme
 Cognito Therapeutics Clinical Trials [6]: 1 hour of stimulation per day for 8 weeks, both sound and light were set at an intensity that the participants considered to be just about acceptable. Negative effects possibly related to the therapy: tinnitus, headache and dizziness, each in 1 of 5 patients.
 I found a response from Ed Gleason to a youtube video [11] where he says his wife participated in the first clinical trial. Patent of Cognito Therapeutics [7], see
 Low-level laser therapy (LLLT) shines infrared light through the skull and this has a positive effect in patients with mild brain trauma [2].
-DIY for both audio and light on youtube [8]
+DIY for both audio and light on youtube [8].
 
 References
 1.	Park, SS., Park, HS., Kim, CJ. et al. Physical exercise during exposure to 40-Hz light flicker improves cognitive functions in the 3xTg mouse model of Alzheimer’s disease. Alz Res Therapy 12, 62 (2020). https://doi.org/10.1186/s13195-020-00631-4
