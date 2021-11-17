@@ -3,6 +3,8 @@
 
 I heard on a podcast that 40 Hz brain stimulation via LED flashes of light and sound had a positive effect on Alzheimer's mice [4]. The researchers from MIT (Tsai and Boyden) had started experiments in humans with the 40 Hz sound waves in humans (see video 3min52 [5]). The sound waves are not ordinary 40 Hz square/sawtooth/sine waves, but apparently a basic tone of 10 kHz that is played for 1 ms and this 40 times per second, so every 25 ms, see the screenshot below from [9] on youtube there is a certain Mr. Nizzo [10] who claims to have the exact sound.
  
+ ![image](https://user-images.githubusercontent.com/22667944/142140413-e9ed2fff-b4fa-490f-9d65-fcdcadbdb005.png)
+
 
 After optimization of the sensory stimulation (light and sound) -Gamma ENtrainment Using Sensory Stimuli (GENUS) dubbed by the researchers- in mice and the first tests in humans. In the meantime, they started a company Cognito Therapeutics to commercialize this.
 Cognito Therapeutics Clinical Trials [6]: 1 hour of stimulation per day for 8 weeks, both sound and light were set at an intensity that the participants considered to be just about acceptable. Negative effects possibly related to the therapy: tinnitus, headache and dizziness, each in 1 of 5 patients.
