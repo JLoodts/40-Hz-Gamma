@@ -6,7 +6,7 @@ I heard on a podcast that 40 Hz brain stimulation via LED flashes of light and s
  ![image](https://user-images.githubusercontent.com/22667944/142140413-e9ed2fff-b4fa-490f-9d65-fcdcadbdb005.png)
 
 
-After optimization of the sensory stimulation (light and sound) -Gamma ENtrainment Using Sensory Stimuli (GENUS) dubbed by the researchers- in mice and the first tests in humans. In the meantime, they started a company Cognito Therapeutics to commercialize this.
+After optimization of the sensory stimulation (light and sound) -Gamma ENtrainment Using Sensory Stimuli (GENUS https://picower.mit.edu/innovations-inventions/genus) dubbed by the researchers- in mice and the first tests in humans. In the meantime, they started a company Cognito Therapeutics (https://www.cognitotx.com/) to commercialize this.
 Cognito Therapeutics Clinical Trials [6]: 1 hour of stimulation per day for 8 weeks, both sound and light were set at an intensity that the participants considered to be just about acceptable. Negative effects possibly related to the therapy: tinnitus, headache and dizziness, each in 1 of 5 patients.
 I found a response from Ed Gleason to a youtube video [11] where he says his wife participated in the first clinical trial. Patent of Cognito Therapeutics [7], see
 Low-level laser therapy (LLLT) shines infrared light through the skull and this has a positive effect in patients with mild brain trauma [2].
